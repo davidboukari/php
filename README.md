@@ -20,3 +20,8 @@ yum-config-manager --enable remi-php74
 yum install php php-common php-opcache php-mcrypt php-cli php-gd php-curl php-mysql php-zipstream php-zip
 yum install unzip
 ```
+## Enable a specific version
+
+```bash
+yum-config-manager --enable remi-php74
+```
