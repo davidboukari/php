@@ -27,6 +27,7 @@ yum-config-manager --enable remi-php74
 ```
 
 ```bash
+https://ostechnix.com/how-to-switch-between-multiple-php-versions-in-ubuntu/
 $ sudo a2dismod php7.2
 Module php7.2 disabled.
 To activate the new configuration, you need to run:
